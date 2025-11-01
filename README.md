@@ -7,3 +7,21 @@ Estudiante de Ingeniería de Software – Institución Universitaria Pascual Bra
  samuel.alzate2808@gmail.com
 Soy estudiante avanzado de Ingeniería de Software con enfoque en ciberseguridad y redes informáticas.
 Busco fortalecer mis habilidades en análisis de vulnerabilidades, gestión de riesgos y pruebas de seguridad en aplicaciones.
+
+Habilidades técnicas
+
+Análisis de vulnerabilidades (Burp Suite, PortSwigger Labs)
+
+Escáneres SAST y DAST
+
+Implementación de matrices de riesgo
+
+Fundamentos de ciberseguridad (Cisco, SENA)
+
+Redes y protocolos TCP/IP
+
+Python básico para automatización
+
+Linux y entornos de pruebas éticas
+
+
