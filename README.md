@@ -20,6 +20,15 @@ Fundamentos de ciberseguridad (Cisco, SENA)
 
 Redes y protocolos TCP/IP
 
+
+En los Trabajos colaborativos e incluso los que no salen ni mi nombre son trabajos los cuales yo cobro por hacerlos y me sirven de practica para mi mismo es una forma de generar ingresos extras 
+cualquier duda contactar a los compañeros donde confirman los trabajos realizados por mi persona 
+
+Contacto : andres.gallego681@pascualbravo.edu.co y  josue.penagos261@pascualbravo.edu.co
+
+Cualquier otra duda al : 3028451549
+
+
 Python básico para automatización
 
 Linux y entornos de pruebas éticas
