@@ -26,11 +26,24 @@ cualquier duda contactar a los compañeros donde confirman los trabajos realizad
 
 Contacto : andres.gallego681@pascualbravo.edu.co y  josue.penagos261@pascualbravo.edu.co
 
-Cualquier otra duda al : 3028451549
+Cualquier otra duda al : 3028451540
 
+Trabajos realizados y herramientas utilizadas 
 
-Python básico para automatización
+Zphishing y http Tracker (Donde solo se copia el front de la pagina )
 
-Linux y entornos de pruebas éticas
+tambien trabaje en metasploit y conexion a puertos vulnerables (21,80,443)
+
+Todo el contenido lo tengo en una bitacora o mas especifico en un blog donde todo el contenido lo realizamos en el bootcamp 
+
+https://drive.google.com/drive/folders/1DPxJsr5RGMMMERrqvtmN0eo9bZ3L3s4v
+
+tambien eh trabajado en dashboard hechos en google colab donde se hace analitica de datos 
+
+lo adjunto en los archivos 
+
+solo trabajo en entornos eticos y con permisos del dueño del negocio respetando el Decreto 1377 de 2013 protección de datos personales, fundamentales para protegerse de fraudes informáticos
+
+y la ley 1273 de 2009 (que tipifica delitos informáticos, incluyendo el daño a sistemas y la producción de software malicioso
 
 
