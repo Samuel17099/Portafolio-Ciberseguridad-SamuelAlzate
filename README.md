@@ -38,6 +38,8 @@ Todo el contenido lo tengo en una bitacora o mas especifico en un blog donde tod
 
 https://drive.google.com/drive/folders/1DPxJsr5RGMMMERrqvtmN0eo9bZ3L3s4v
 
+el drive adjunto es de todo lo que realizamos en el curso
+
 tambien eh trabajado en dashboard hechos en google colab donde se hace analitica de datos 
 
 lo adjunto en los archivos 
@@ -45,5 +47,9 @@ lo adjunto en los archivos
 solo trabajo en entornos eticos y con permisos del dueño del negocio respetando el Decreto 1377 de 2013 protección de datos personales, fundamentales para protegerse de fraudes informáticos
 
 y la ley 1273 de 2009 (que tipifica delitos informáticos, incluyendo el daño a sistemas y la producción de software malicioso
+
+
+ADVERTENCIA !!
+PERSONAS EXTERNAS A LAS QUE LES COMPARTO ESTE  GITHUB Y QUIERAN APRENDER HACKING ETICO ESTA EN SUS MANOS LA RESPONSABILIDAD DE LOS ATAQUES (HAY PROGRAMAS PARA RASTREAR GENTE)ASI QUE ME DESLIGO DE CUALQUIER BOBADA QUE COMETAN EN EL CIBERESPACIO PROXIMAMENTE LES ENSEÑARE A ENTRAR EN LA DEEP WEB 
 
 
