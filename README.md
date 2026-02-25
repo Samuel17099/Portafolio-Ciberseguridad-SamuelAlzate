@@ -52,3 +52,11 @@ y la ley 1273 de 2009 (que tipifica delitos informáticos, incluyendo el daño a
 ADVERTENCIA !!
 PERSONAS EXTERNAS A LAS QUE LES COMPARTO ESTE  GITHUB Y QUIERAN APRENDER HACKING ETICO ESTA EN SUS MANOS LA RESPONSABILIDAD DE LOS ATAQUES ( HAY PROGRAMAS PARA RASTREAR GENTE )ASI QUE ME DESLIGO DE CUALQUIER BOBADA QUE COMETAN EN EL CIBERESPACIO
 
+
+
+Repositorios que utilizo 
+https://github.com/The-Art-of-Hacking/h4cker/tree/master/bug-bounties 
+(Tener cuidado con lo aprendido)
+
+
+Pd: Se que es un repositorio de trabajo pero tambien me gusta enseñar este "arte"
