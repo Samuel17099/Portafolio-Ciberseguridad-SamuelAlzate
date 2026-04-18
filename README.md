@@ -48,10 +48,17 @@ solo trabajo en entornos eticos y con permisos del dueño del negocio respetando
 
 y la ley 1273 de 2009 (que tipifica delitos informáticos, incluyendo el daño a sistemas y la producción de software malicioso
 
+Para empresas interesadas desarrolle un dashboard interactivo sobre ciberdelitos no lo pongo en el github por que me lo roban pero si una empresa lo quiere ver solicitemelo al 3028451540 
 
+quedo una belleza el trabajo el cual sera presentado el varios eventos nacionales 
 
 
 Repositorios que utilizo  para aprender 
 https://github.com/The-Art-of-Hacking/h4cker/tree/master/bug-bounties 
 (Tener cuidado con lo aprendido)
+
+
+"LA IA Y LA CIBERSEGURIDAD SON EL FUTURO DEL MUNDO"
+
+Solo debo mejorar y trabajar bajo presion para ser de los mejores 
 
