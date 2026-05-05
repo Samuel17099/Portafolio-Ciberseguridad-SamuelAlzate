@@ -62,3 +62,8 @@ https://github.com/The-Art-of-Hacking/h4cker/tree/master/bug-bounties
 
 Solo debo mejorar y trabajar bajo presion para ser de los mejores 
 
+
+Hay un trabajo realizado sobre el cibercrimen en colombia el cual realice con compañeros usando python y streamlit aqui esta la prueba 
+https://dashboardcibercrimenesco.streamlit.app/
+
+solo esperar a que cargue y si no recarga la pagina es un proyecto muy ambicioso 
