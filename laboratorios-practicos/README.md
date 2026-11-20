@@ -3,5 +3,6 @@ Primordialmennte en esteapartado pondre como es la ciberseguridad en tiempos mod
 Estas 3 lecciones las estoy tomando en hacksplaining y hay que observar bien , les cuento como me fue y les hago un resumen 
 
 
+---
 
 #### Empecemos con Desinformación y envenenamiento de modelos en LLM
