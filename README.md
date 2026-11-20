@@ -1,69 +1,46 @@
-# Portafolio-Ciberseguridad-SamuelAlzate
-Portafolio personal de proyectos y prácticas en ciberseguridad, análisis de vulnerabilidades y gestión de riesgos.
-Portafolio de Ciberseguridad – Samuel Alzate Echeverri
+# Portafolio de Ciberseguridad, Redes y Desarrollo Seguro
 
-Estudiante de Ingeniería de Software – Institución Universitaria Pascual Bravo
- Medellín, Colombia
- samuel.alzate2808@gmail.com
-Soy estudiante avanzado de Ingeniería de Software con enfoque en ciberseguridad y redes informáticas.
-Busco fortalecer mis habilidades en análisis de vulnerabilidades, gestión de riesgos y pruebas de seguridad en aplicaciones.
+**Samuel Alzate Echeverri**  
+Estudiante de 9° semestre de Ingeniería de Software | Institución Universitaria Pascual Bravo (Medellín, Colombia)  
+Contacto: samuel.alzate2808@gmail.com | Tel: +57 302 845 1540
 
-Habilidades técnicas
+Portafolio técnico con laboratorios, análisis de vulnerabilidades, gestión de riesgos y proyectos de analítica aplicada a la seguridad de la información.
 
-Análisis de vulnerabilidades (Burp Suite, PortSwigger Labs)
+---
 
-Escáneres SAST y DAST
+## Perfil y Enfoque Técnico
 
-Implementación de matrices de riesgo
+* **Seguridad de Aplicaciones (AppSec):** Análisis de vulnerabilidades web (OWASP Top 10) mediante Burp Suite y laboratorios de PortSwigger; aplicación de herramientas SAST y DAST en el ciclo de vida de desarrollo seguro (SDLC).
+* **Gestión de Riesgos y Normativa:** Elaboración de matrices de riesgo, buenas prácticas de seguridad de la información y desarrollo de prácticas bajo estricto cumplimiento de la **Ley 1273 de 2009** (Delitos Informáticos) y el **Decreto 1377 de 2013** (Protección de Datos Personales en Colombia).
+* **Redes e Infraestructura:** Reconocimiento de servicios y puertos con Nmap en Kali Linux, simulación de ingeniería social en entornos controlados para concientización, y segmentación de redes (VLANs, ACLs).
+* **Desarrollo y Analítica de Datos:** Python, C#, .NET, SQL, Streamlit y Google Colab.
 
-Fundamentos de ciberseguridad (Cisco, SENA)
+---
 
-Redes y protocolos TCP/IP
+## Proyectos Destacados
 
+### 1. Observatorio Interactivo de Cibercrimen en Colombia
+Aplicación web desarrollada en **Python y Streamlit** para el análisis exploratorio y visualización de tendencias sobre delitos informáticos en Colombia.
+* **Demo en vivo:** [Ver aplicación en Streamlit](https://cibercrimenescolombia.streamlit.app/) *(Nota: si la aplicación está en reposo, puede tardar unos segundos en iniciar).*
+* **Dashboard avanzado:** Cuento con una versión extendida de analítica de ciberdelitos (en repositorio privado por propiedad intelectual) disponible para demostración en vivo durante entrevistas técnicas.
 
-En los Trabajos colaborativos e incluso los que no salen ni mi nombre son trabajos los cuales yo cobro por hacerlos y me sirven de practica para mi mismo es una forma de generar ingresos extras 
-cualquier duda contactar a los compañeros donde confirman los trabajos realizados por mi persona 
+### 2. Evaluación de Riesgos y Seguridad en el Ciclo de Vida (SDLC)
+Documentación técnica y metodológica orientada a la identificación temprana de amenazas y controles:
+* **Matriz y Evaluación de Riesgos:** Identificación de activos, amenazas, impacto y planes de mitigación (`20251_050_Evaluacion_Riesgos.pdf`).
+* **Seguridad Integral en el SDLC:** Guía de implementación de controles de seguridad desde el diseño hasta el despliegue de software (`Seguridad_Integral_SDLC.pdf`).
+* **Buenas Prácticas de Gestión de Seguridad:** Lineamientos operativos para protección de infraestructura y usuarios.
 
-Contacto : andres.gallego681@pascualbravo.edu.co y  josue.penagos261@pascualbravo.edu.co
+### 3. Laboratorios de Seguridad Ofensiva, Redes y Criptografía
+Prácticas realizadas en entornos aislados y controlados:
+* **Análisis de Disponibilidad (DoS):** Estudio del comportamiento de servicios ante pruebas de denegación de servicio y medidas de mitigación (`Analisis_Ataque_DoS.pdf`).
+* **Esteganografía y Ocultamiento de Información:** Análisis técnico de técnicas de ocultamiento de datos en archivos multimedia (`Laboratorio_Esteganografia.pdf`).
+* **Bitácora Bootcamp Ciberseguridad (MinTIC / UdeA / U. de Caldas):** Documentación de prácticas y ejercicios del programa intensivo de 159 horas.
 
-Cualquier otra duda al : 3028451540
+---
 
-Trabajos realizados y herramientas utilizadas 
+## Formación Complementaria y Recursos
 
-Zphishing y http Tracker (Donde solo se copia el front de la pagina )
-
-tambien trabaje en metasploit y conexion a puertos vulnerables (21,80,443)
-
-Todo el contenido lo tengo en una bitacora o mas especifico en un blog donde todo el contenido lo realizamos en el bootcamp 
-
-https://drive.google.com/drive/folders/1DPxJsr5RGMMMERrqvtmN0eo9bZ3L3s4v
-
-el drive adjunto es de todo lo que realizamos en el curso
-
-tambien eh trabajado en dashboard hechos en google colab donde se hace analitica de datos 
-
-lo adjunto en los archivos 
-
-solo trabajo en entornos eticos y con permisos del dueño del negocio respetando el Decreto 1377 de 2013 protección de datos personales, fundamentales para protegerse de fraudes informáticos
-
-y la ley 1273 de 2009 (que tipifica delitos informáticos, incluyendo el daño a sistemas y la producción de software malicioso
-
-Para empresas interesadas desarrolle un dashboard interactivo sobre ciberdelitos no lo pongo en el github por que me lo roban pero si una empresa lo quiere ver solicitemelo al 3028451540 
-
-quedo una belleza el trabajo el cual sera presentado el varios eventos nacionales 
-
-
-Repositorios que utilizo  para aprender 
-https://github.com/The-Art-of-Hacking/h4cker/tree/master/bug-bounties 
-(Tener cuidado con lo aprendido)
-
-
-"LA IA Y LA CIBERSEGURIDAD SON EL FUTURO DEL MUNDO"
-
-Solo debo mejorar y trabajar bajo presion para ser de los mejores 
-
-
-Hay un trabajo realizado sobre el cibercrimen en colombia el cual realice con compañeros usando python y streamlit aqui esta la prueba 
-https://cibercrimenescolombia.streamlit.app/
-
-solo esperar a que cargue y si no recarga la pagina es un proyecto muy ambicioso 
+* **Bootcamp Ciberseguridad (159 horas)** – MinTIC, Universidad de Antioquia y Universidad de Caldas.
+* **Certificación en Introducción a la Ciberseguridad** – Cisco Networking Academy.
+* **Certificación en Conceptos de Ciberseguridad** – SENA.
+* **Repositorio de referencia para práctica continua:** [The Art of Hacking - Bug Bounties](https://github.com/The-Art-of-Hacking/h4cker/tree/master/bug-bounties)
